@@ -92,7 +92,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___index], order: ASC }
+      sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
       skip: $skip
     ) {

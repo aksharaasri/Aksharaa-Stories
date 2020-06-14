@@ -14,7 +14,6 @@ One day Woody was tired.
 
 When he sat he felt he was sitting on a stick. It was a branch of a tree.
 
-
 > Weeeeeeeeeeee 
 
 said Woody and he lived happily ever after making holes. 

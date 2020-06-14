@@ -6,8 +6,6 @@ img: ./sparrowAndOwl.jpg
 index: 4
 ---
 
-# Oh Hot Sun
-
 One day Queen sparrow and Queen Owl had a quarrel. 
 ![sparrowAndOwl](./sparrowAndOwl.jpg)
 

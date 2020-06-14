@@ -6,8 +6,6 @@ img: # Add image post (optional)
 index: 2
 ---
 
-# Sunny Tree Who Was A Man
-
 The Sunny Tree was sad and realised his mistake.
 
 One day a Fairy came and said, "This Sunny Tree was a Man" 

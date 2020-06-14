@@ -6,8 +6,6 @@ img: # Add image post (optional)
 index: 3
 ---
 
-# Fishy Fool
-
 One day Bear Big the bear was walking.
 Then he was hungry.
 He wanted to eat fish.

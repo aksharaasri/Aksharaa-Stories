@@ -6,9 +6,6 @@ img: # Add image post (optional)
 index: 1
 ---
 
-# Sunny Man Who Was A Tree
-
-
 One day a Sunny Man was walking down the road. He saw a Witch.
 
 "Hey silly Witch", he called. 

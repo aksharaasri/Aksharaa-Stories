@@ -3,6 +3,7 @@ title: 'The Bad and The Good'
 date: 2020-06-14 21:00:20 +0300
 description: Magic in mouse land! read to know how the villan was defeated. 
 img: # Add image post (optional)
+moral: Good always wins
 ---
 
 One day Mullu mouse the magician was walking. He saw Fur Fur the villan mouse.

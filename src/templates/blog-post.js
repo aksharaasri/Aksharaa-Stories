@@ -37,6 +37,9 @@ class BlogPostTemplate extends React.Component {
               <div dangerouslySetInnerHTML={{ __html: post.html }}/>
             </div>
           </div>
+          {post.frontmatter.moral && <div className="moral">
+            Moral is &nbsp; : &nbsp; &ldquo;{post.frontmatter.moral}&rdquo;
+          </div>}
         </article>
       </DefaultLayout>
     )
@@ -60,6 +63,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "YYYY, MMM DD")
+        moral
         tags
         img {
           childImageSharp {

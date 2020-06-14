@@ -3,7 +3,7 @@ title: 'Infinity'
 date: 2020-06-14 13:32:20 +0300
 description: How did the baby 8 live for ever. 
 img: # Add image post (optional)
-index: 6
+moral: If you are good, good things will happen to you.
 ---
 
 One day a baby number "8" was born to mother "8" and father "8". Baby "8" was a very good child.
@@ -38,6 +38,4 @@ He cut the arms, legs and eyes of baby "8" and put the baby "8" in sleeping line
 Then he put back it's arms, legs and eyes.  
 
 Now baby "8" became baby "&#8734;" and lived happily for ever.
- 
 
-Moral: If you are good, good things will happen to you.

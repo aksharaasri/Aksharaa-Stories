@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
       <DefaultLayout>
         <SEO
           title={siteTitle}
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`story`, `children`, `moral`, `moralstories`]}
         />
         {posts.map(({ node }) => {
           return (
@@ -39,7 +39,7 @@ class BlogIndex extends React.Component {
                 <h2 className="post-title">
                   <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
                 </h2>
-                <p>{node.excerpt}</p>
+                <p>{node.frontmatter.description}</p>
                 <span className="post-date">
                   {node.frontmatter.date}&nbsp;&nbsp;—&nbsp;
                 </span>
@@ -88,10 +88,11 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___index], order: ASC }
       limit: $limit
       skip: $skip
     ) {
@@ -105,6 +106,8 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "YYYY, MMM DD")
             title
+            description
+            index
             img {
               childImageSharp {
                 fluid(maxWidth: 3720) {

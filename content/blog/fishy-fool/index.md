@@ -3,6 +3,7 @@ title: 'Fishy Fool'
 date: 2020-04-06 13:32:20 +0300
 description: Is the fish the fool or the Bear? Find out. 
 img: # Add image post (optional)
+index: 3
 ---
 
 # Fishy Fool

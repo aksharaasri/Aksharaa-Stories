@@ -3,6 +3,7 @@ title: 'Sunny Tree who was a Man'
 date: 2020-04-06 13:32:20 +0300
 description: This is a story of how the sunny tree became a man
 img: # Add image post (optional)
+index: 2
 ---
 
 # Sunny Tree Who Was A Man

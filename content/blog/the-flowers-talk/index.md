@@ -2,7 +2,7 @@
 title: 'The Flowers Talk'
 date: 2020-06-16 09:32:20 +0300
 description: What does it look like when the flowers have a friendly chat? Find out.  
-img: # Add image post (optional)
+img: ./flower.jpg
 ---
 
 One day all the flowers were talking. 
@@ -31,4 +31,6 @@ Just then a butterfly came to drink nectare from everyone,
 
 Everyone Laughed Happily
 > Ha Ha Ha Ha !!!
+
+![Flowers](./flower.jpg)
   

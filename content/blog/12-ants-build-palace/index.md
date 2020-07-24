@@ -2,6 +2,7 @@
 title: '12 Ants build a palace'
 date: 2020-07-17 10:20:20 +0430
 description: How did the ant's hard work helped them against the cunning fox.
+img: ./IMG_20200724_124553.jpg
 moral: Hard work always pays.
 ---
 
@@ -16,6 +17,8 @@ The brave ants thought
 
 > We should not paint it. If we paint the fox will break the rock castle again.
 
+
+![Builds the Palace](./IMG_20200724_124553.jpg)
 
 Then they started to build their rock castle. They collected rock and made a beautful rock castle.
 When they finished it on the 4th day and went inside.

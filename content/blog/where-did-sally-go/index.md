@@ -1,6 +1,6 @@
 ---
 title: 'Where did Sally Go!'
-date: 2020-06-29 21:54:20 +0300
+date: 2020-11-18 07:48:20 +0300
 description: Sally decided to go on a trip. Where did he go?
 moral: Explore if you have time, learn something.
 ---

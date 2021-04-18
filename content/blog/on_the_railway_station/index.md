@@ -15,9 +15,8 @@ It was a very rowdy parrot.
 
 It says 
 > keech keech keech keech.
+
 One day the parrot slept off.
-
-
 We waited waited waited waited waited.
 It did not come.
 

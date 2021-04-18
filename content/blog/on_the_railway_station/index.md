@@ -26,7 +26,7 @@ We went to sleep.
 
 > ZZZZZZZZZ ZZZZZZZZZZ ZZZZZZZZZZZ ZZZZZZZZZZZZZZ
 
-Tommorow we went.
+Tommorrow we went.
 It woke up and told us the story why it did not come
 
 

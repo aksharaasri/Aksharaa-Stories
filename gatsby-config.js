@@ -11,6 +11,13 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "G-M9YNYVFXWC",
+        defaultDataLayer: { platform: "gatsby" },
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "G-M9YNYVFXWC",

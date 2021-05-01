@@ -67,9 +67,11 @@ Meanwhile mole was doing plans
 | 3. go to "Uyoyo Waliside Matreso" sir's house |
 | 4. adveture  |
 
+```
 \-;'=-+;.<>]['
-mole samriew
-|---------------------------------------------------------|
+```
+**mole samriew**
+
 
 They travelled a long distance and saw a beautiful house. 
 

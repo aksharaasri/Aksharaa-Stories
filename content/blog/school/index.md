@@ -6,43 +6,46 @@ description: A poem to celebrate the life at school.
 
 <p>
   
-  A place to **play**, 
+  A place to <b>play</b>, 
 
-  A place to **sway**, 
+  A place to <b>sway</b>, 
 
-  A place to say **hurray** 
+  A place to say <b>hurray</b> 
   
 </p>
-<p>&nbsp;</p>
-<p>
-  
-  When work is **done**, 
 
-  A place we **run**, 
-
-  It is a lot of **fun** 
-  
-</p>
-<p>&nbsp;</p>
-
-<p>
-
-  It is the **school**, 
-  
-  We like all **day**, 
-  
-  Where we study and **play** 
-
-</p>
 <p>&nbsp;</p>
 
 <p>
   
-Because of **this**, 
+  When work is <b>done</b>, 
+
+  A place we <b>run</b>, 
+
+  It is a lot of <b>fun</b> 
   
-**Pandemic**, 
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+
+  It is the <b>school</b>, 
   
-I miss my school **Today** 
+  We like all <b>day</b>, 
+  
+  Where we study and <b>play</b>
+
+</p>
+<p>&nbsp;</p>
+
+<p>
+  
+  Because of <b>this</b>, 
+
+  <b>Pandemic</b>, 
+
+  I miss my school <b>Today</b> 
   
 </p>
 <p>&nbsp;</p>

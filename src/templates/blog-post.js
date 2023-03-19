@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { kebabCase } from 'lodash'
-import Img from 'gatsby-image'
+// import Img from 'gatsby-image'
+import { StaticImage as Img} from "gatsby-plugin-image"
+
 
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
